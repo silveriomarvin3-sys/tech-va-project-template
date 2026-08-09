@@ -1,4 +1,4 @@
-# Project XX — Project Name
+# Project XX — Project Name - TEMPLATE
 
 One strong sentence explaining what the system does
 and the business outcome it provides.
